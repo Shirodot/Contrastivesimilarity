@@ -4,9 +4,8 @@ import java.util.*;
 /**
  * =============================================================================
  * Assignment 1 - Contrastive Learning
- * Course   : Algorithms
- * Lecturer : Xiang-Rui Huang, NPUST / NYCU
- *
+
+
  * Formula  : L = max(0, C - ||D(x1) - D(x2)||_2)
  *
  * HOW TO USE:

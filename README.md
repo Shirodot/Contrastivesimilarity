@@ -1,12 +1,5 @@
 # Assignment 1 — Contrastive Learning
 
-**Course:** Algorithms (演算法)  
-**Lecturer:** Xiang-Rui Huang (黃祥睿), NPUST / NYCU  
-**Language:** Java
-
----
-
-## Assignment Brief
 
 > Given the distance loss for **negative samples** in contrastive learning:
 >
